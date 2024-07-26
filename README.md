@@ -100,5 +100,23 @@ CREATE TABLE stock_data (
 );
 ```
 
-## Скриншот работы программы
-![screenshot](imgs/screenshot.png)
+## Скриншоты работы программы
+**Сборка и запуск контейнера PostgreSQL**
+
+![screenshot](imgs/img.png)
+
+**Создание таблицы в PostgreSQL**
+
+![screenshot](imgs/img_1.png)
+
+**Сборка и запуск контейнера Python**
+
+![screenshot](imgs/img_2.png)
+
+**Проверка логов контейнера Python**
+
+![screenshot](imgs/img_3.png)
+
+**Проверка данных в базе данных**
+
+![screenshot](imgs/img_4.png)
